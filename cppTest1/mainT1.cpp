@@ -11,3 +11,5 @@ int main()
 	speedup();
 	return 0;
 }
+
+// speedup bot dao ci yi you
